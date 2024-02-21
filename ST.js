@@ -13,7 +13,9 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
     		    	{word : 'immigrant'}, 
     			{word : 'migrant'}, 
     			{word : 'refugee'}, 
-    			{word : 'expatriate'} 
+    			{word : 'expatriate'},
+			{word : 'migrant'}, 
+    			{word : 'refugee'} 
 		    ], 
 		    //Stimulus css (style)
 		    css : {color:'#31b404','font-size':'3em'}
