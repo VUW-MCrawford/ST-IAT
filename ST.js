@@ -9,11 +9,11 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
 		      css : {color:'#31b404','font-size':'2em'}, //Style of the category title.
 		      height : 7 //Used to position the "Or" in the combined block.
 		    }, 
-		    media : [ //Stimuli content as PIP's media objects
+		    media : [ //Stimuli
     		    	{word : 'immigrant'}, 
     			{word : 'migrant'}, 
     			{word : 'refugee'}, 
-    			{image : 'expatriate'} 
+    			{word : 'expatriate'} 
 		    ], 
 		    //Stimulus css (style)
 		    css : {color:'#31b404','font-size':'3em'}
