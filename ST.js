@@ -13,9 +13,7 @@ define(['pipAPI', 'https://raw.githubusercontent.com/VUW-MCrawford/ST-IAT/main/S
     		    	{word : 'immigrant'}, 
     			{word : 'migrant'}, 
     			{word : 'refugee'}, 
-    			{word : 'expatriate'},
-			{word : 'migrant'}, 
-    			{word : 'refugee'} 
+    			{word : 'expatriate'}
 		    ], 
 		    //Stimulus css (style)
 		    css : {color:'#31b404','font-size':'3em'}
