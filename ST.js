@@ -21,7 +21,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/VUW-MCrawford/ST-IAT@main/STscrip
 
   		attribute1 : 
 			{
-			name : 'Unpleasant', //Attribute label
+			name : 'Negative', //Attribute label
 			title : {
 				media : {word : 'Negative'}, //Name of the category presented in the task.
 				css : {color:'#31b404','font-size':'2em'}, //Style of the category title.
@@ -40,7 +40,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/VUW-MCrawford/ST-IAT@main/STscrip
 			},
 		attribute2 : 
 			{
-			name : 'Pleasant', //Attribute label
+			name : 'Positive', //Attribute label
 			title : {
 				media : {word : 'Positive'}, //Name of the category presented in the task.
 				css : {color:'#31b404','font-size':'2em'}, //Style of the category title.
