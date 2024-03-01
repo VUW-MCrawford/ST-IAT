@@ -16,7 +16,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/VUW-MCrawford/ST-IAT@main/STscrip
     			{word : 'Expatriate'}
 		    ], 
 		    //Stimulus css (style)
-		    css : {color:'#31b404','font-size':'3em'}
+		    css : {color:'#000000','font-size':'3em'}
 		  },	
 
   		attribute1 : 
@@ -36,7 +36,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/VUW-MCrawford/ST-IAT@main/STscrip
 				{word: 'Awful'}
 			], 
 			//Can change color and size of the targets here.
-			css : {color:'#31b404','font-size':'3em'}
+			css : {color:'#000000','font-size':'3em'}
 			},
 		attribute2 : 
 			{
@@ -55,7 +55,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/VUW-MCrawford/ST-IAT@main/STscrip
 				{word: 'Love'}
 			], 
 			//Can change color and size of the targets here.
-			css : {color:'#31b404','font-size':'3em'}
+			css : {color:'#000000','font-size':'3em'}
 			},
 
   base_url : {//Where are your images at?
