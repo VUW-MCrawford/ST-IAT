@@ -6,7 +6,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/VUW-MCrawford/ST-IAT@main/STscrip
 		    name : 'Immigrant', //Will appear in the data.
 		    title : {
 		      media : {word : 'Immigrant'}, //Name of the category presented in the task.
-		      css : {color:'#31b404','font-size':'2em'}, //Style of the category title.
+		      css : {color:'#33ffff','font-size':'2em'}, //Style of the category title.
 		      height : 7 //Used to position the "Or" in the combined block.
 		    }, 
 		    media : [ //Stimuli
@@ -28,12 +28,12 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/VUW-MCrawford/ST-IAT@main/STscrip
 				height : 7 //Used to position the "Or" in the combined block.
 			}, 
 			media : [ //Stimuli
-				{word: 'Bomb'},
+				{word: 'Terrible'},
 				{word: 'Abuse'},
 				{word: 'Sadness'},
-				{word: 'Pain'},
-				{word: 'Poison'},
-				{word: 'Grief'}
+				{word: 'Agony'},
+				{word: 'Failure'},
+				{word: 'Awful'}
 			], 
 			//Can change color and size of the targets here.
 			css : {color:'#31b404','font-size':'3em'}
