@@ -35,7 +35,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					{word: 'Shanice'}
 				],
 				//Can change color and size of the targets here.
-				css : {color:'#31b404','font-size':'2em'}
+				css : {color:'#000000','font-size':'2em'}
 			},	
 			attribute1 : 
 			{
@@ -46,15 +46,16 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					height : 4 //Used to position the "Or" in the combined block.
 				}, 
 				media : [ //Stimuli
-					{word: 'Bomb'},
+					{word: 'Terrible'},
 					{word: 'Abuse'},
 					{word: 'Sadness'},
-					{word: 'Pain'},
-					{word: 'Poison'},
-					{word: 'Grief'}
+					{word: 'Agony'},
+					{word: 'Failure'},
+					{word: 'Awful'}
+					
 				], 
 				//Can change color and size of the targets here.
-				css : {color:'#31b404','font-size':'2em'}
+				css : {color:'#000000','font-size':'2em'}
 			},
 			attribute2 : 
 			{
@@ -73,7 +74,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					{word: 'Love'}
 				], 
 				//Can change color and size of the targets here.
-				css : {color:'#31b404','font-size':'2em'}
+				css : {color:'#000000','font-size':'2em'}
 			},	
 			trialsByBlock : 
 			[//Each object in this array defines a block
