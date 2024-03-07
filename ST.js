@@ -12,7 +12,8 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/VUW-MCrawford/ST-IAT@main/STscrip
 		    media : [ //Stimuli
     		    	{word : 'Immigrant'}, 
     			{word : 'Migrant'}, 
-    			{word : 'Refugee'}, 
+    			{word : 'Refugee'},
+			{word : 'Foreigner'},
     			{word : 'Expatriate'}
 		    ], 
 		    //Stimulus css (style)
